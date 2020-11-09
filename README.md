@@ -1,0 +1,1 @@
+![Pizzería](./images/encabezado.png)
